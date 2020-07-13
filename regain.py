@@ -6,6 +6,10 @@ Reference: J. Yoon, J. Jordon, M. van der Schaar, "GAIN: Missing Data Imputation
 Paper Link: http://medianetlab.ee.ucla.edu/papers/ICML_GAIN.pdf
 Appendix Link: http://medianetlab.ee.ucla.edu/papers/ICML_GAIN_Supp.pdf
 Contact: jsyoon0823@g.ucla.edu
+
+Modified by Boris van Breugel
+Date: July 13th 2020
+Contact: boris.breugel.19@ucl.ac.uk
 '''
 
 #%% Packages
