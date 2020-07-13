@@ -15,8 +15,8 @@ Contact: Boris van Breugel, boris.breugel.19@ucl.ac.uk
 
 ```
     python3 create_missing.py --dataset bc -o missing.csv --oref ref.csv --istarget 1 --normalize01 1
-    python3 gain.py -i missing.csv -o imputed.csv --target target
-    python3 gain_ana.py -i missing.csv --ref ref.csv --imputed imputed.csv -o result.json --target target
+    python3 regain.py -i missing.csv -o imputed.csv --target target
+    python3 regain_ana.py -i missing.csv --ref ref.csv --imputed imputed.csv -o result.json --target target
 ```
 or just:
 ```
